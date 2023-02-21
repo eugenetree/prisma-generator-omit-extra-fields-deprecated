@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`model fields generation: Post 1`] = `"const postKeys = [ 'id', 'createdAt', 'updatedAt', 'published', 'title', 'author', 'authorId',]"`;
+
+exports[`model fields generation: User 1`] = `"const userKeys = [ 'id', 'createdAt', 'email', 'name', 'posts',]"`;
