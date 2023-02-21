@@ -13,7 +13,7 @@ generatorHandler({
     return {
       version,
       defaultOutput: '../generated',
-      prettyName: 'prisma-omit-extra-fields',
+      prettyName: 'prisma-generator-omit-extra-fields',
     }
   },
   onGenerate: async (options: GeneratorOptions) => {

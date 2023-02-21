@@ -1,11 +1,11 @@
 {
-  "name": "prisma-omit-extra-fields",
+  "name": "prisma-generator-omit-extra-fields",
   "description": "Provide a description about your generator",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "dist/generator.js",
   "license": "MIT",
   "bin": {
-    "prisma-omit-extra-fields": "dist/bin.js"
+    "prisma-generator-omit-extra-fields": "dist/bin.js"
   },
   "engines": {
     "node": ">=14.0"
